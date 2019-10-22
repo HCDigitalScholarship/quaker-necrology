@@ -1,6 +1,6 @@
 
 # Quaker Necrology Database
-[Link to the project's website]()
+[Link to the project's website](http://134.209.121.250)
 
 ![Quaker Necrology](https://github.com/iogolla/quaker-necrology/blob/master/project1/static/img/special_collections.jpg)
 
@@ -32,17 +32,18 @@ A sample card is shown below:
 
 A huge part of the project involves datatables and the documentation can be found [here](https://github.com/HCDigitalScholarship/ds-cookbook/tree/master/datatables-server-side-processing)
 
-### Frameworks Used
+### Languages and Frameworks Used
 * Django
 * Python
 * Datatables
-* JQuery
+* JavaScript
+* HTML/CSS
 
 ## Community
 Quaker Necrology Database also allows users to send suggestions or comments on matters related to the Quakers enlisted. We welcome anyone with any additional information/suggestions to contact us.
 
 Questions?🤔 Comments?🤨 Suggestions!😊
 
-Send us an email at hcdigitalscholarship@gmail.com
+Contact me at ianelvis6@gmail.com
 
 
